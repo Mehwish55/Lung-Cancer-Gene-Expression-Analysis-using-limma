@@ -119,3 +119,27 @@ Lung-Cancer-Gene-Expression-limma/
 ## Author
 
 Mehwish
+## Results
+
+### Volcano Plot
+
+![Volcano Plot](figures/volcano_plot.png)
+
+---
+
+### PCA Plot
+
+![PCA Plot](figures/pca_plot.png)
+
+## Key Findings
+
+- Analyzed 22,283 genes across 107 lung tissue samples.
+- Compared 58 lung adenocarcinoma samples with 49 normal lung tissue samples.
+- Identified 10,884 significantly differentially expressed genes (adjusted p-value < 0.05).
+- Generated volcano plot, PCA plot, and heatmap to visualize gene expression differences.
+
+---
+
+### Heatmap
+
+![Heatmap](figures/heatmap.png)
